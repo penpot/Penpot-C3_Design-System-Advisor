@@ -9,7 +9,7 @@ The system will help users to avoid maintenance overload. The idea is to group t
 
 ## Technology pipeline
 
-![#3 Working process.png](reports/figures/3_Working_process.png)
+![#3 Working process.png](reports/figures/3_Working_process.jpg)
 
 <details>
 <summary>Step #1) Parse and extract individual components via component-id:</summary>
