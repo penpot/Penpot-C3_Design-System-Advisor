@@ -79,7 +79,7 @@ The system will help users to avoid maintenance overload. The idea is to group t
     
     - AI: 👎 need large labeled data 👍 can tackle more complex code
     
-    - Traditional methods: 👎 can only tackle code in simple structure, more efficient
+    - Traditional methods: 👎 can only tackle code in simple structure 👍 more efficient
 
 </details>
 
