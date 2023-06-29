@@ -4,6 +4,7 @@
 |---------------------------------------------------------------|
 | 💡 Please feel free to share your valuable comments [here](https://github.com/penpot/Penpot-C3_Design-System-Advisor/issues/1#issue-1780334140).|
 
+<br>
 
 ## 🔎 Idea overview
 
