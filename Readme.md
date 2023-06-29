@@ -12,11 +12,11 @@ As a technologist, I want to analyze the ASSETS portion of a Penpot file, **in 
 <br>
 
 ## 💡 Feature analysis
-### Approach #1 | Identifying unused components [[More](Approach\%231-Identifying_unused_components/Readme.md)]
+### Approach #1 | Identifying unused components [[More](Approach\%231-Identifying_unused_components/)]
 
 The system will help users to avoid maintenance overload. The idea is to identify unused components and suggest designers for lightweight Assets.
 
-### Approach #2 | Refactoring duplicated components [[More](Approach\%232-Refactoring_duplicated_components/Readme.md)]
+### Approach #2 | Refactoring duplicated components [[More](Approach\%232-Refactoring_duplicated_components/)]
     
 The system will help users to avoid maintenance overload. The idea is to group the duplicated components with similar appearance but the same purpose and suggest designers merge the similar ones.
 
