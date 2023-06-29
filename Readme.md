@@ -1,5 +1,10 @@
 # Idea #3 | Design System Advisor
 
+| 🚀 Help the community improve the Penpot challenge! 🚀    | 
+|---------------------------------------------------------------|
+| 💡 Please feel free to share your valuable comments [here](https://github.com/penpot/Penpot-C3_Design-System-Advisor/issues/1#issue-1780334140).|
+
+
 ## 🔎 Idea overview
 
 As a technologist, I want to analyze the ASSETS portion of a Penpot file, **in particular the COMPONENTS subsections**, against their usage in such Penpot file and get a new optimized and efficient version of the ASSETS and LAYERS content to avoid maintenance overload
