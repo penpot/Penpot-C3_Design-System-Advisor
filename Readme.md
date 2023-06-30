@@ -7,7 +7,7 @@ Share your groundbreaking ideas and let's redefine what's possible [here](https:
 
 <br>
 
-## 🔎 Challenge overview
+## 🔎 Overview
 
 As a technologist, I want to analyze the ASSETS portion of a Penpot file, **in particular the COMPONENTS subsections**, against their usage in such Penpot file and get a new optimized and efficient version of the ASSETS and LAYERS content to avoid maintenance overload
 
