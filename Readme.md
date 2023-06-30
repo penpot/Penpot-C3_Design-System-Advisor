@@ -1,4 +1,4 @@
-# Idea #3 | Design System Advisor
+# Challenge #3 | Design System Advisor
 
 ### 🚀 Calling all innovators!  🚀 
 
@@ -7,7 +7,7 @@ Share your groundbreaking ideas and let's redefine what's possible [here](https:
 
 <br>
 
-## 🔎 Idea overview
+## 🔎 Challenge overview
 
 As a technologist, I want to analyze the ASSETS portion of a Penpot file, **in particular the COMPONENTS subsections**, against their usage in such Penpot file and get a new optimized and efficient version of the ASSETS and LAYERS content to avoid maintenance overload
 
