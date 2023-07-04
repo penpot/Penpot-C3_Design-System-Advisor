@@ -4,7 +4,7 @@ The system will help users to avoid maintenance overload. The idea is to group t
 
 | Technology readiness | Risks | Complexity |
 | ----- | ----- | ---------- |
-| <div style="width: 200pt"> 🟡 Some elements are available, but further development and research needed | <div style="width: 150pt"> 🟡 Moderate risk | <div style="width: 130pt"> 🟠 Moderately complex |
+| <div style="width: 200pt"> 🟡 Some elements are available, but further development and research needed | <div style="width: 150pt"> 🟡 Moderate risk | <div style="width: 130pt"> 🟡 Moderately complex |
 
 
 ## Technology pipeline
